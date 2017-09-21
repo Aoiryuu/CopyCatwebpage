@@ -1,3 +1,16 @@
 body{
   background-color: #FFFFFF;
 }
+#home-image{
+	margin-top: 175px;
+	margin-left: 375px;
+}
+#search-bar{
+	background-color: #FFFFFF;
+	margin-left: 375px;
+}
+
+#search-bar > input {
+	padding: 5px;
+	font-size: 20px;
+}
